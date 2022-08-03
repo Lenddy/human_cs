@@ -1,0 +1,15 @@
+C:\Users\leme2\Desktop\coding\human_cs\bin\Debug\net6.0\human_cs.exe
+C:\Users\leme2\Desktop\coding\human_cs\bin\Debug\net6.0\human_cs.deps.json
+C:\Users\leme2\Desktop\coding\human_cs\bin\Debug\net6.0\human_cs.runtimeconfig.json
+C:\Users\leme2\Desktop\coding\human_cs\bin\Debug\net6.0\human_cs.dll
+C:\Users\leme2\Desktop\coding\human_cs\bin\Debug\net6.0\human_cs.pdb
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.csproj.AssemblyReference.cache
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.AssemblyInfoInputs.cache
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.AssemblyInfo.cs
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.csproj.CoreCompileInputs.cache
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.dll
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\refint\human_cs.dll
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.pdb
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\human_cs.genruntimeconfig.cache
+C:\Users\leme2\Desktop\coding\human_cs\obj\Debug\net6.0\ref\human_cs.dll
